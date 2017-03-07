@@ -1,0 +1,7 @@
+= WildFly Swarm Tutorial Source Code
+
+This repository contains source code for the WildFly Swarm Tutorial hosted
+on link:http://wildfly-swarm.io/tutorial[http://wildfly-swarm.io/tutorial].
+
+> Please raise any issues related to this repository in our JIRA:
+> https://issues.jboss.org/browse/SWARM
